@@ -3,6 +3,9 @@
 ## Hi there, I'm Aminu
 I'm a software Engineer who constatly seeks out innovative solutions to everyday problems. I have just over a year of experience as a junior software engineer with First Technology. In my short time here, I've already contributed to over a dozen projects and I've honed my analytical thinking and collaboration skills, and I love working with a team.
 
+
+In my personal space I love to do ciclyng :bike:, climbing :goat: and travel :airplane:. My next destination will be Bostwana :mount_fuji:
+
 **More about me on:**
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arabiu033/)
