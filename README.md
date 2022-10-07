@@ -1,4 +1,4 @@
-<img src="https://github.com/arabiu033/arabiu033/blob/main/4416312.jpg" width="1000" height="450">
+<img src="https://github.com/arabiu033/arabiu033/blob/main/4416312.jpg" width="1000" height="440">
 
 ## Hi there, I'm Aminu
 I'm a software Engineer who constatly seeks out innovative solutions to everyday problems. I have just over a year of experience as a junior software engineer with First Technology. In my short time here, I've already contributed to over a dozen projects and I've honed my analytical thinking and collaboration skills, and I love working with a team.
@@ -28,10 +28,10 @@ In my personal space I love to do ciclyng :bike:, climbing :goat: and travel :ai
   <img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>
+  <img src="https://img.shields.io/badge/c-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>
   <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="django"/>
-  <img src="https://img.shields.io/badge/tensorflow-FF8200?logo=&logoColor=white&style=for-the-badge" alt="tensorflow"/>
-  <img src="https://img.shields.io/badge/pandas-130654?logo=&logoColor=white&style=for-the-badge" alt="pandas"/>
+  <img src="https://img.shields.io/badge/react.js-FF8200?logo=&logoColor=white&style=for-the-badge" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/javascript-130654?logo=&logoColor=white&style=for-the-badge" alt="pandas"/>
 </details>
 
 <details>
