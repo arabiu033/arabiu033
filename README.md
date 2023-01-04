@@ -1,7 +1,7 @@
 <img src="https://github.com/arabiu033/arabiu033/blob/main/4416312.jpg" width="1000" height="440">
 
 ## Hi there, I'm Aminu
-I'm a software engineer who is always looking for new ways to solve everyday problems. I've been with First Technology for a little over a year as a junior+ software engineer. I've already contributed to over a dozen projects in my short time here, and I've honed my analytical thinking and collaboration skills; I also enjoy working with a team.
+I'm a software engineer who is always looking for new ways to solve everyday problems. I've been with First Technology for a little over a year as a junior+ software engineer. I've already contributed to over a dozen projects in my short time here, and I've honed my analytical thinking and collaboration skills; I also love pair-programming and ruby 💎
 
 
 In my personal space I love to do ciclyng :bike:, climbing :goat: and travel :airplane:. My next destination will be Bostwana :mount_fuji:
