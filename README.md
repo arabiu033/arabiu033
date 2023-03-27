@@ -1,10 +1,28 @@
 <img src="https://github.com/arabiu033/arabiu033/blob/main/4416312.jpg" width="1000" height="440">
 
-## Hi there, I'm Aminu
-I'm a software engineer who is always looking for new ways to solve everyday problems. I've been with First Technology for a little over a year as a junior+ software engineer. I've already contributed to over a dozen projects in my short time here, and I've honed my analytical thinking and collaboration skills; I also love pair-programming and ruby 💎
+## Hi there, I'm [Aminu](https://www.linkedin.com/in/arabiu033/)
+A passionate and enthusiastic web and mobile developer with 2+ years of experience.
+I love new challenges and new projects that help me invest all my skills and experience into succeeding in them.
 
+I work hard to make clean and concise sites that are visually interesting while still practical for the user. Each business is unique and requires more than a cookie-cutter layout. I put a lot of effort into making sure we are reaching your target audience in the best way possible.
 
-In my personal space I love to do ciclyng :bike:, climbing :goat: and travel :airplane:. My next destination will be Bostwana :mount_fuji:
+### Skills and Expertise
+
+**Fronted Stack:**
+- Main: JavaScript, TypeScript, React/Redux, React Native, Apollo Client, Wordpress+React and of course HTML & CSS.
+- Additional: jQuery, SASS, Bootstrap, GSAP, MaterialUI, SemanticUI, Ant. design
+
+**Backend Stack:**
+- Ruby on Rails, NodeJS, Express, LoopBack, GraphQL, ApolloServer
+
+**Database Layer:**
+- MongoDB, PostgreSQL & MySQL
+
+**Programming Languages:**
+- Python, Ruby and C Language. Mid level in others.
+
+**Version Control System:**
+- SVN, Git (GitLab, GitHub, BitBucket)
 
 **More about me on:**
 
